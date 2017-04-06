@@ -16,6 +16,7 @@ https://habrahabr.ru/post/256109/
 - Запрещено использовать Bootstrap,foundation - кроме сетки, либо случаев когда необходимо сверстать прототип
 - Для верстки писем использовать Zurb Foundation - http://foundation.zurb.com/emails.html
 - Иконки должны быть сделаны спрайтом, например - https://github.com/twolfson/gulp.spritesmith
+- FlexBox - можно и нужно, только быть аккуратным с safari и свойствами, такими как - flex-grow, order и другие, также если не стоит задачи поддержки какого то старого IE.
 
 Требования к оформлению
 
