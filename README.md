@@ -1,4 +1,5 @@
 <h1>Требования к оформлению</h1>
+0. Clear Code!!!!!! https://github.com/ryanmcdermott/clean-code-javascript 
 1. Запрещено использовать important
 
 2. Верстка должна быть валидной - https://validator.w3.org/
